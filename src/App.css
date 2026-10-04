@@ -1,0 +1,12 @@
+.upload-btn {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+} 
+.upload-btn:hover:cursor-pointer {color: darkblue;}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
